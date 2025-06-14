@@ -11,7 +11,7 @@
 
 **Добавим ссылки**
 
-div id="badges">
+<div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -32,5 +32,17 @@ print("Hello world")
 ### Примеры использования:
 
 - [ ] задача не выполненная
-
 - [x] задача выполненная
+
+-----------------------------
+
+> [!NOTE]
+> малополезно
+> [!TIP]
+> Полезно
+> [!IMPORTANT]
+> Важно
+> [!WARNING]
+> Предупреждение
+> [!CAUTION]
+> Осторожно
